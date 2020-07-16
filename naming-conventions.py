@@ -1,3 +1,4 @@
+# Python is case-sensitive
 # variables take snake_case
 first_number = 12
 
